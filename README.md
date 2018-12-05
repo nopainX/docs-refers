@@ -5,4 +5,4 @@
 - 7 main XSS cases : https://brutelogic.com.br/blog/the-7-main-xss-cases-everyone-should-know/
 - JavaScript Prototype Pollution attack in NodeJS : https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf
 - Understanding Web Applications, Servlets, and JSPs : https://docs.oracle.com/cd/E15523_01/web.1111/e13712/basics.htm#WBAPP117
-- XXE in Excel : https://www.4armed.com/blog/exploiting-xxe-with-excel/
+- XXE in Excel : https://www.4armed.com/blog/exploiting-xxe-with-excel/ | https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54
