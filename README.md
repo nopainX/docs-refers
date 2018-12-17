@@ -7,3 +7,4 @@
 - Understanding Web Applications, Servlets, and JSPs : https://docs.oracle.com/cd/E15523_01/web.1111/e13712/basics.htm#WBAPP117
 - XXE in Excel : https://www.4armed.com/blog/exploiting-xxe-with-excel/ | https://medium.com/@jonathanbouman/xxe-at-bol-com-7d331186de54
 - Escalating Low Severity Bugs To High Severity  : https://www.noob.ninja/2018/07/escalating-low-severity-bugs-to-high.html
+- XXE bypass with endcoding : https://mohemiv.com/all/evil-xml/
