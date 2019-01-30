@@ -9,3 +9,4 @@
 - Escalating Low Severity Bugs To High Severity  : https://www.noob.ninja/2018/07/escalating-low-severity-bugs-to-high.html
 - XXE bypass with endcoding : https://mohemiv.com/all/evil-xml/
 - From blind XXE to root-level file read access : https://www.honoki.net/category/websec/
+- Hacking-Resources : https://www.torontowebsitedeveloper.com/hacking-resources
